@@ -1,6 +1,4 @@
 # Analise-de-Dados-de-Vendas-com-SQL-Server
-Este projeto apresenta uma série de análises de dados de vendas realizadas utilizando SQL Server. O objetivo é extrair insights valiosos sobre o desempenho de vendas, comportamento do cliente, lucratividade de produtos e vendedores, fornecendo uma base sólida para tomadas de decisão estratégicas.
-
 Este arquivo, que detalha o projeto e as análises.
 
 Análises Realizadas
@@ -12,8 +10,6 @@ Categorias Mais Lucrativas
 Objetivo: Identificar quais categorias de produtos geram o maior lucro para a empresa.
 
 Consulta SQL:
-
-SQL
 
 
 ![CATEGORIA QUE GERAM MAIS LUCRO](https://github.com/user-attachments/assets/c04856d7-dea5-4f40-9750-9e3ba2fbf5d2)
@@ -36,8 +32,6 @@ Objetivo: Identificar os clientes que mais contribuem para o faturamento da empr
 
 Consulta SQL:
 
-SQL
-
 ![cliente fies](https://github.com/user-attachments/assets/c8d98381-9596-4171-bf5b-8d72c3a18329)
 
 
@@ -58,7 +52,7 @@ Objetivo: Analisar o desempenho de vendas por região geográfica, identificando
 
 Consulta SQL:
 
-SQL
+
 
 
 ![FATURAMENTO REGIAO](https://github.com/user-attachments/assets/ece25fc2-8647-415f-899c-947ac9089bef)
@@ -81,7 +75,6 @@ Objetivo: Obter o valor total do faturamento da empresa.
 
 Consulta SQL:
 
-SQL
 
 
 ![Faturamento Total ](https://github.com/user-attachments/assets/f1a996d9-e56a-414f-90c3-4f04a88d18d1)
@@ -103,7 +96,7 @@ Objetivo: Identificar os produtos com o menor volume de vendas, o que pode indic
 
 Consulta SQL:
 
-SQL
+
 ![produto menos vendido](https://github.com/user-attachments/assets/47abcb3f-28ae-4e4a-a589-8fa69ceac9d6)
 
 
@@ -124,7 +117,7 @@ Objetivo: Identificar os produtos que geram o maior volume de vendas e faturamen
 
 Consulta SQL:
 
-SQL
+
 
 
 ![Produtos Mais Vendidos](https://github.com/user-attachments/assets/5aaf489a-0f0b-4aaf-8de1-e1547024dd27)
@@ -147,7 +140,7 @@ Objetivo: Analisar o faturamento mensal ao longo do tempo para identificar tend�
 
 Consulta SQL:
 
-SQL
+
 
 
 ![projeção proximos meses](https://github.com/user-attachments/assets/f3e1c553-9fb7-47d2-be9f-c886461d0996)
@@ -169,7 +162,7 @@ Objetivo: Calcular o ticket médio das vendas por mês, fornecendo uma métrica 
 
 Consulta SQL:
 
-SQL
+
 
 ![tiket medio](https://github.com/user-attachments/assets/228a38fd-cb51-4c01-a1e7-ebdb65d39a46)
 
@@ -191,7 +184,7 @@ Objetivo: Analisar a variação do faturamento mensal, destacando os meses de ma
 
 Consulta SQL:
 
-SQL
+
 
 
 ![Variação Mensal ](https://github.com/user-attachments/assets/1c5f68a7-3d82-4fd9-8523-a6bc47ffdcb4)
@@ -213,8 +206,6 @@ Vendedores
 Objetivo: Avaliar o desempenho dos vendedores com base no total de itens vendidos e no faturamento gerado.
 
 Consulta SQL:
-
-SQL
 
 
 ![vendedores](https://github.com/user-attachments/assets/2a27f131-26cf-48ba-a8e6-c6a643a5471c)
